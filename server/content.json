@@ -1,0 +1,471 @@
+{
+  "home": {
+    "heading": "Define your corporate signature",
+    "subheading": "Premium leather craftsmanship that elevates your brand",
+    "buttonText": "Explore collections",
+    "backgroundImage": ""
+  },
+  "homeSignature": {
+    "heading": "Design your corporate signature",
+    "description": "Every gift is a statement. We design narratives of excellence and timeless value that leave a lasting impression.",
+    "buttonText": "Get started",
+    "buttonLink": "/contact"
+  },
+  "commitments": [
+    {
+      "title": "Premium Quality",
+      "description": "Every piece begins with handpicked leather, ensuring unmatched quality and timeless appeal."
+    },
+    {
+      "title": "Artisan Craftsmanship",
+      "description": "Expertly crafted by seasoned artisans, delivering timeless elegance in every piece."
+    },
+    {
+      "title": "Bespoke Customization",
+      "description": "Custom-crafted branding to perfectly showcase your corporate essence."
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "title": "Premium Textured Wallet",
+      "description": "A refined wallet with a slim silhouette, soft grain finish, and executive-ready detailing.",
+      "image": "",
+      "imageId": "product01",
+      "category": "Leather",
+      "subtitle": "Elegant everyday carry",
+      "specifications": "Material: Full-grain leather, Dimensions: 9 x 11 cm, Weight: 180 g",
+      "usageCareInstructions": "Store in a dust bag and wipe gently with a dry cloth.",
+      "features": "Genuine leather, polished hardware, soft-touch finish",
+      "suitableFor": "Corporate gifting, professional use",
+      "isVisible": true,
+      "isDraft": false
+    },
+    {
+      "id": 2,
+      "title": "Leather Passport Holder",
+      "description": "A polished travel companion that protects documents with a luxury leather finish and structured design.",
+      "image": "",
+      "imageId": "product02",
+      "category": "Leather",
+      "subtitle": "Travel-ready sophistication",
+      "specifications": "Material: Vegetable-tanned leather, Dimensions: 10 x 15 cm, Weight: 140 g",
+      "usageCareInstructions": "Avoid moisture and use a soft leather conditioner occasionally.",
+      "features": "Structured profile, secure fold, premium stitching",
+      "suitableFor": "Travel, gifting, collectors",
+      "isVisible": true,
+      "isDraft": false
+    },
+    {
+      "id": 3,
+      "title": "Executive Leather Belt",
+      "description": "A classic belt designed with clean lines, durable construction, and a sharp finish for everyday formality.",
+      "image": "",
+      "imageId": "product03",
+      "category": "Leather",
+      "subtitle": "Tailored executive style",
+      "specifications": "Material: Smooth leather, Dimensions: 120 cm length, Weight: 260 g",
+      "usageCareInstructions": "Keep away from prolonged sunlight and moisture.",
+      "features": "Strong buckle, refined edges, durable stitching",
+      "suitableFor": "Office wear, gifting, formal dressing",
+      "isVisible": true,
+      "isDraft": false
+    },
+    {
+      "id": 4,
+      "title": "Luxury Crocodile Handbag",
+      "description": "A statement handbag with rich texture, sculpted form, and a premium presence for elegant daily use.",
+      "image": "",
+      "imageId": "product04",
+      "category": "Leather",
+      "subtitle": "Luxury statement silhouette",
+      "specifications": "Material: Grain leather, Dimensions: 32 x 24 x 12 cm, Weight: 820 g",
+      "usageCareInstructions": "Store upright and clean with a microfiber cloth.",
+      "features": "Full-grain texture, structured body, polished hardware",
+      "suitableFor": "Luxury gifting, evening wear, travel",
+      "isVisible": true,
+      "isDraft": false
+    },
+    {
+      "id": 5,
+      "title": "Corporate Gift Collection",
+      "description": "A curated collection of premium leather accents designed for polished corporate presentation and memorable gifting.",
+      "image": "",
+      "imageId": "product05",
+      "category": "Leather",
+      "subtitle": "Curated for occasions",
+      "specifications": "Material: Leather and finishing trim, Dimensions: Varied, Weight: 1.2 kg set",
+      "usageCareInstructions": "Keep wrapped when not in use and avoid soaking.",
+      "features": "Coordinated pieces, refined packaging, premium finish",
+      "suitableFor": "Corporate events, brand gifting",
+      "isVisible": true,
+      "isDraft": false
+    },
+    {
+      "id": 6,
+      "title": "Professional Laptop Portfolio",
+      "description": "A sleek portfolio that balances protection, elegance, and executive organization for modern professionals.",
+      "image": "",
+      "imageId": "product06",
+      "category": "Leather",
+      "subtitle": "Professional polish",
+      "specifications": "Material: Soft leather, Dimensions: 32 x 24 cm, Weight: 590 g",
+      "usageCareInstructions": "Use a dry cloth and avoid excessive bending.",
+      "features": "Secure compartments, slim profile, premium lining",
+      "suitableFor": "Meetings, travel, executive gifting",
+      "isVisible": true,
+      "isDraft": false
+    }
+  ],
+  "productDescriptions": {
+    "billfolds-1": "Heritage Fold blends heritage craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "billfolds-2": "Signature Fold blends signature craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "billfolds-3": "Executive Fold blends executive craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "billfolds-4": "Luxe Fold blends luxe craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "billfolds-5": "Classic Fold blends classic craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "billfolds-6": "Modern Fold blends modern craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "billfolds-7": "Elite Fold blends refined craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "billfolds-8": "Refined Fold blends artisan craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "watch-strap-1": "Heritage Strap blends heritage craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "watch-strap-2": "Signature Strap blends signature craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "watch-strap-3": "Executive Strap blends executive craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "watch-strap-4": "Luxe Strap blends luxe craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "crossbody-slings-1": "Heritage Sling blends classic craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "crossbody-slings-2": "Signature Sling blends modern craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "crossbody-slings-3": "Executive Sling blends refined craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "crossbody-slings-4": "Luxe Sling blends artisan craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "gift-sets-1": "Heritage Gift Set blends heritage craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "gift-sets-2": "Signature Gift Set blends signature craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "gift-sets-3": "Executive Gift Set blends executive craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "gift-sets-4": "Luxe Gift Set blends luxe craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "gift-sets-5": "Classic Gift Set blends classic craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "executive-folios-1": "Heritage Folio blends modern craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "executive-folios-2": "Signature Folio blends refined craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "laptop-bags-1": "Heritage Laptop Case blends artisan craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "laptop-bags-2": "Signature Laptop Case blends heritage craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "laptop-bags-3": "Executive Laptop Case blends signature craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "laptop-bags-4": "Luxe Laptop Case blends executive craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "laptop-bags-5": "Classic Laptop Case blends luxe craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "laptop-bags-6": "Modern Laptop Case blends classic craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "laptop-bags-7": "Elite Laptop Case blends modern craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "laptop-bags-8": "Refined Laptop Case blends refined craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "laptop-bags-9": "Contour Laptop Case blends artisan craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "key-fobs-1": "Heritage Key Fob blends heritage craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "key-fobs-2": "Signature Key Fob blends signature craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "key-fobs-3": "Executive Key Fob blends executive craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "key-fobs-4": "Luxe Key Fob blends luxe craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "card-holder-1": "Heritage Card Holder blends classic craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "card-holder-2": "Signature Card Holder blends modern craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "card-holder-3": "Executive Card Holder blends refined craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "card-holder-4": "Luxe Card Holder blends artisan craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "card-holder-5": "Classic Card Holder blends heritage craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "signature-backpack-1": "Heritage Backpack blends signature craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "signature-belts-1": "Heritage Belt blends executive craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "signature-belts-2": "Signature Belt blends luxe craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "signature-belts-3": "Executive Belt blends classic craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "signature-belts-4": "Luxe Belt blends modern craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "signature-belts-5": "Classic Belt blends refined craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "wallet-belt-sets-1": "Heritage Set blends artisan craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "wallet-belt-sets-2": "Signature Set blends heritage craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "wallet-belt-sets-3": "Executive Set blends signature craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-bag-1": "Heritage Bag blends executive craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-bag-2": "Signature Bag blends luxe craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-bag-3": "Executive Bag blends classic craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-bag-4": "Luxe Bag blends modern craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-bag-5": "Classic Bag blends refined craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-bag-6": "Modern Bag blends artisan craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-bag-7": "Elite Bag blends heritage craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-bag-8": "Refined Bag blends signature craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-bag-9": "Contour Bag blends executive craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-bag-10": "Imperial Bag blends luxe craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "travel-sleeves-1": "Heritage Sleeve blends classic craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "travel-sleeves-2": "Signature Sleeve blends modern craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "travel-sleeves-3": "Executive Sleeve blends refined craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "travel-sleeves-4": "Luxe Sleeve blends artisan craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "travel-duffles-1": "Heritage Carryall blends heritage craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "travel-duffles-2": "Signature Carryall blends signature craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "travel-duffles-3": "Executive Carryall blends executive craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "travel-duffles-4": "Luxe Carryall blends luxe craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-clutch-1": "Heritage Clutch blends classic craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "womens-clutch-2": "Signature Clutch blends modern craftsmanship, a polished silhouette, and premium leather finish for elevated gifting and everyday distinction.",
+    "backpack-carriers-1": "Heritage Carrier blends refined craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "backpack-carriers-2": "Signature Carrier blends artisan craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "business-card-holders-1": "Heritage Holder blends heritage craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "business-card-holders-2": "Signature Holder blends signature craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "business-card-holders-3": "Executive Holder blends executive craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "hydration-1": "Heritage Bottle blends luxe craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "hydration-2": "Signature Bottle blends classic craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "hydration-3": "Executive Bottle blends modern craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "hydration-4": "Luxe Bottle blends refined craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "hydration-5": "Classic Bottle blends artisan craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "journals-pens-1": "Heritage Journal blends heritage craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "journals-pens-2": "Signature Journal blends signature craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "journals-pens-3": "Executive Journal blends executive craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "journals-pens-4": "Luxe Journal blends luxe craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "journals-pens-5": "Classic Journal blends classic craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "laptop-sleeves-1": "Heritage Sleeve blends modern craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "laptop-sleeves-2": "Signature Sleeve blends refined craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "laptop-sleeves-3": "Executive Sleeve blends artisan craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "laptop-sleeves-4": "Luxe Sleeve blends heritage craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction.",
+    "t-shirts-1": "Heritage T-Shirt blends signature craftsmanship, a polished silhouette, and refined utility design for elevated gifting and everyday distinction."
+  },
+  "about": {
+    "storyTitle": "Story Behind Crafted Legacy",
+    "storyDescription": "Founded on a simple belief: corporate gifting should carry meaning, craftsmanship, and lasting value.",
+    "storyBlocks": [
+      "Crafted Legacy was founded on a simple belief: corporate gifting should carry meaning, craftsmanship, and lasting value. What began as a passion for fine leather has grown into a mission to transform how brands express appreciation and build enduring relationships.",
+      "From the very beginning, our vision has been clear: to create high-end leather gifts that reflect the integrity, prestige, and identity of the companies we serve. Every piece is meticulously handcrafted by skilled artisans using carefully selected premium leather, ensuring unmatched quality, elegance, and durability.",
+      "At Crafted Legacy, we seamlessly blend timeless craftsmanship with modern corporate expectations—precision, personalization, and professionalism. Whether it's a bespoke creation for a valued client or a curated collection for your team, our goal remains the same: to deliver gifts that leave a powerful, lasting impression."
+    ],
+    "storyImage": "",
+    "missionTitle": "What Drives Us",
+    "missionDescription": "Our vision is clear: to create high-end leather gifts that reflect the integrity and prestige of our clients.",
+    "missionImage": "",
+    "heritageTitle": "Craftsmanship Heritage",
+    "heritageDescription": "Meticulously handcrafted by skilled artisans using premium leather, ensuring unmatched quality.",
+    "heritageImage": "",
+    "missionCards": [
+      {
+        "title": "Our Mission",
+        "description": "To craft premium leather gifts that reflect luxury, artistry, and meaningful connections."
+      },
+      {
+        "title": "Our Excellence",
+        "description": "Skilled artisans, traditional techniques, and superior materials ensure every piece reflects unparalleled quality."
+      },
+      {
+        "title": "Our Clients",
+        "description": "We serve forward-thinking organizations and reputable brands, ensuring every detail exemplifies premium quality and sophistication."
+      },
+      {
+        "title": "Our Passion",
+        "description": "For us, every piece of leather is a canvas, crafted with knowledge passed down through generations."
+      }
+    ]
+  },
+  "customization": {
+    "headerTitle": "Exquisite Personalization",
+    "headerDescription": "Your brand, etched in leather.",
+    "mainText": "At Crafted Legacy, we understand that every detail matters. Our customization process is designed to ensure your corporate identity is represented with the highest level of precision and elegance.",
+    "features": [
+      {
+        "title": "Embossing & Debossing",
+        "description": "Add a touch of sophistication with embossing and debossing, highlighting your brand with subtle elegance."
+      },
+      {
+        "title": "Custom Color Selection",
+        "description": "Select from our luxurious range of leather shades and partner with our artisans to develop a signature color for your brand."
+      },
+      {
+        "title": "Metallic Foil Stamping",
+        "description": "Infuse your designs with luxury using gold, silver, or rose gold foil, reflecting refinement and prestige."
+      },
+      {
+        "title": "Premium Packaging",
+        "description": "Our customized packaging ensures every piece makes a memorable and distinguished corporate impression."
+      }
+    ],
+    "processSteps": [
+      {
+        "number": "01",
+        "title": "Consultation",
+        "description": "Share your vision with our design team as we walk you through the best customization options with expert guidance."
+      },
+      {
+        "number": "02",
+        "title": "Design Approval",
+        "description": "Review detailed mockups and samples to ensure every element aligns perfectly with your brand expectations."
+      },
+      {
+        "number": "03",
+        "title": "Artisan Crafting",
+        "description": "Our master artisans craft each piece with precision, bringing your approved design to life with meticulous care."
+      },
+      {
+        "number": "04",
+        "title": "Quality Assurance",
+        "description": "Every item undergoes rigorous inspection, meeting our highest standards before it reaches your hands."
+      }
+    ]
+  },
+  "contact": {
+    "headerTitle": "Let’s Create Your Legacy",
+    "headerDescription": "Get in touch for bespoke orders and inquiries.",
+    "email": "contact@craftedlegacy.com",
+    "phone": "+91 99876 54321",
+    "address": "12 Corporate Lane, Chennai, TN 600001",
+    "mapEmbedUrl": "",
+    "contactInfo": {
+      "address": "No.33 Jega Jeevan Ram Nagar\n270 Agaram Main Road, Selaiyur\nChennai 600073",
+      "phones": [
+        "+91 99526 18170",
+        "+91 97888 88483"
+      ],
+      "email": "us.craftedlegacy@gmail.com",
+      "businessHours": [
+        "Monday - Friday: 10AM - 7PM",
+        "Saturday on appointment basis"
+      ]
+    },
+    "corporateInquiries": {
+      "title": "Corporate inquiries",
+      "description": "For bulk orders and customization projects, please contact our corporate sales team for personalized assistance.",
+      "email": "us.craftedlegacy@gmail.com"
+    },
+    "mapSection": {
+      "plusCode": "W48V+GW Chennai, Tamil Nadu",
+      "directionUrl": "https://www.google.com/maps/search/?api=1&query=W48V%2BGW+Chennai,+Tamil+Nadu"
+    }
+  },
+  "navbar": {
+    "logoText": "Crafted Legacy",
+    "menuItems": [
+      {
+        "name": "Home",
+        "path": "#"
+      },
+      {
+        "name": "Products",
+        "path": "#products"
+      },
+      {
+        "name": "About",
+        "path": "#about"
+      },
+      {
+        "name": "Customization",
+        "path": "#customization"
+      },
+      {
+        "name": "Contact",
+        "path": "#contact"
+      },
+      {
+        "name": "Privacy policy",
+        "path": "#privacy"
+      },
+      {
+        "name": "Terms & conditions",
+        "path": "#terms"
+      }
+    ],
+    "socialLinks": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/people/Crafted-Legacy/pfbid0bQxuByBmBourkWaSPBdGe6mXcBttV5wUyHjTgxdQnNb9auAkLJTGtyduMu8SK6Kml/"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/us.craftedlegacy/"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sabarish-raja-92324ba8/"
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "name": "Home",
+        "path": "#"
+      },
+      {
+        "name": "About",
+        "path": "#about"
+      },
+      {
+        "name": "Products",
+        "path": "#products"
+      },
+      {
+        "name": "Customization",
+        "path": "#customization"
+      },
+      {
+        "name": "Contact",
+        "path": "#contact"
+      },
+      {
+        "name": "Privacy policy",
+        "path": "#privacy"
+      },
+      {
+        "name": "Terms & conditions",
+        "path": "#terms"
+      }
+    ],
+    "socialLinks": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/people/Crafted-Legacy/pfbid0bQxuByBmBourkWaSPBdGe6mXcBttV5wUyHjTgxdQnNb9auAkLJTGtyduMu8SK6Kml/"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/us.craftedlegacy/"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sabarish-raja-92324ba8/"
+      }
+    ],
+    "copyrightText": "© 2025 Crafted Legacy. All rights reserved.",
+    "designerText": "Site designed and maintained by",
+    "designerUrl": "https://www.zenith77.com"
+  },
+  "cta": {
+    "heading": "Your legacy starts here",
+    "description": "Every gift is a statement. We design narratives of excellence and timeless value that leave a lasting impression.",
+    "buttonText": "Start your journey",
+    "buttonLink": "/contact"
+  },
+  "testimonials": [
+    {
+      "name": "Rajesh Kumar",
+      "company": "TechCorp India",
+      "review": "The quality of the leather products is exceptional. Our clients were thoroughly impressed with the craftsmanship and attention to detail.",
+      "rating": 5
+    },
+    {
+      "name": "Priya Sharma",
+      "company": "Global Enterprises",
+      "review": "Crafted Legacy delivered beyond our expectations. The personalized gifts made our corporate event truly memorable.",
+      "rating": 5
+    },
+    {
+      "name": "Anand Patel",
+      "company": "Innovation Labs",
+      "review": "Professional service, stunning products, and timely delivery. Highly recommend for corporate gifting needs.",
+      "rating": 5
+    },
+    {
+      "name": "Sunita Verma",
+      "company": "Elite Solutions",
+      "review": "Excellent craftsmanship and timely delivery. Our partners loved the corporate gifts.",
+      "rating": 5
+    },
+    {
+      "name": "Vikram Joshi",
+      "company": "Mercury Logistics",
+      "review": "High-quality products and attentive service. A reliable partner for our corporate gifting programs.",
+      "rating": 5
+    },
+    {
+      "name": "",
+      "company": "",
+      "review": "",
+      "rating": 5
+    }
+  ],
+  "sectionHeaders": {
+    "commitmentTitle": "Our commitment to craft",
+    "collectionsTitle": "Our feature collections",
+    "collectionsButtonText": "Explore collection",
+    "aboutPageTitle": "The story behind Crafted Legacy",
+    "missionSectionTitle": "What Drives Us",
+    "craftsmanshipTitle": "Craftsmanship Heritage",
+    "contactPageTitle": "We're here to assist",
+    "productsPageTitle": "Our products",
+    "categoriesSectionTitle": "Explore Categories"
+  }
+}

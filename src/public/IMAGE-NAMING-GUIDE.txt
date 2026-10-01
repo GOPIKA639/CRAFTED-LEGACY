@@ -1,0 +1,190 @@
+========================================
+  IMAGE NAMING GUIDE - CRAFTED LEGACY
+========================================
+
+📸 HOW TO ADD IMAGES TO THIS WEBSITE
+========================================
+
+STEP 1: Locate the correct folder
+STEP 2: Name your image file EXACTLY as shown below
+STEP 3: Drop the image into the folder
+STEP 4: Done! The website will automatically display it
+
+========================================
+📂 HERO IMAGE
+========================================
+Location: /public/Home/
+Required file name: Hero-Image.jpg
+
+Example:
+✅ Hero-Image.jpg  (correct)
+❌ hero-image.jpg  (wrong - capital H and I needed)
+❌ HeroImage.jpg   (wrong - needs hyphen)
+
+========================================
+📂 PRODUCT IMAGES - BILLFOLDS
+========================================
+Location: /public/Products/Leather/billfolds/
+Required file names:
+- billfolds-01.jpg
+- billfolds-02.jpg
+- billfolds-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - WALLETS
+========================================
+Location: /public/Products/Leather/wallets/
+Required file names:
+- wallets-01.jpg
+- wallets-02.jpg
+- wallets-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - CARD HOLDERS
+========================================
+Location: /public/Products/Leather/card-holders/
+Required file names:
+- card-holders-01.jpg
+- card-holders-02.jpg
+- card-holders-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - PASSPORT HOLDERS
+========================================
+Location: /public/Products/Leather/passport-holders/
+Required file names:
+- passport-holders-01.jpg
+- passport-holders-02.jpg
+- passport-holders-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - KEY CHAINS
+========================================
+Location: /public/Products/Leather/key-chains/
+Required file names:
+- key-chains-01.jpg
+- key-chains-02.jpg
+- key-chains-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - LAPTOP BAGS
+========================================
+Location: /public/Products/Leather/laptop-bags/
+Required file names:
+- laptop-bags-01.jpg
+- laptop-bags-02.jpg
+- laptop-bags-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - SLING BAGS
+========================================
+Location: /public/Products/Leather/sling-bags/
+Required file names:
+- sling-bags-01.jpg
+- sling-bags-02.jpg
+- sling-bags-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - OFFICE BAGS
+========================================
+Location: /public/Products/Leather/office-bags/
+Required file names:
+- office-bags-01.jpg
+- office-bags-02.jpg
+- office-bags-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - JOURNALS
+========================================
+Location: /public/Products/Leather/journals/
+Required file names:
+- journals-01.jpg
+- journals-02.jpg
+- journals-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - FOLDERS
+========================================
+Location: /public/Products/Leather/folders/
+Required file names:
+- folders-01.jpg
+- folders-02.jpg
+- folders-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - PEN HOLDERS
+========================================
+Location: /public/Products/Leather/pen-holders/
+Required file names:
+- pen-holders-01.jpg
+- pen-holders-02.jpg
+- pen-holders-03.jpg
+
+========================================
+📂 PRODUCT IMAGES - DESK ACCESSORIES
+========================================
+Location: /public/Products/Leather/desk-accessories/
+Required file names:
+- desk-accessories-01.jpg
+- desk-accessories-02.jpg
+- desk-accessories-03.jpg
+
+========================================
+⚡ IMPORTANT NOTES
+========================================
+
+1. File names are CASE SENSITIVE
+   ✅ billfolds-01.jpg (correct - lowercase)
+   ❌ Billfolds-01.jpg (wrong - capital B)
+
+2. Use HYPHENS not underscores
+   ✅ billfolds-01.jpg (correct)
+   ❌ billfolds_01.jpg (wrong)
+
+3. Number format is -01, -02, -03
+   ✅ wallets-01.jpg (correct)
+   ❌ wallets-1.jpg (wrong - missing zero)
+
+4. Supported formats: .jpg, .jpeg, .png, .webp
+   (But the code expects .jpg by default)
+
+5. Recommended image sizes:
+   - Hero Image: 1920x1080px (landscape)
+   - Product Images: 800x800px (square)
+
+========================================
+🔄 AFTER ADDING IMAGES
+========================================
+
+For Development (npm run dev):
+- Images appear immediately after refresh
+
+For Production (npm run build):
+- Run: npm run build
+- Images are copied to dist/ folder
+- Deploy dist/ folder to your hosting
+
+========================================
+🆘 TROUBLESHOOTING
+========================================
+
+Image not showing?
+1. Check file name matches EXACTLY (case-sensitive!)
+2. Check file is in correct folder
+3. Refresh browser (Ctrl+F5)
+4. Check browser console for errors
+
+Still not working?
+- Verify folder path: /public/Products/Leather/[category]/
+- Ensure file extension is lowercase: .jpg not .JPG
+- Try renaming the file to match exactly
+
+========================================
+✅ YOU'RE ALL SET!
+========================================
+
+Simply drop your images with these exact names
+into the correct folders, and they'll appear
+automatically on your website!
+
+No code changes needed!
